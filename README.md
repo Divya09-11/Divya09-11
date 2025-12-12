@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Divyashree A
 
-<!--
-**Divya09-11/Divya09-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Machine Learning Engineer | Python Developer | Cloud Enthusiast (AWS)
 
-Here are some ideas to get you started:
+🌱 Currently working on: ML pipelines, LLM-based applications
+💡 Interested in: Machine Learning, Data Science, Generative AI, MLOps
+🎯 Goal: To build intelligent, scalable AI systems that solve real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills & Technologies
+Languages: Python
+Libraries: NumPy, Pandas, scikit-learn, Matplotlib
+Cloud: AWS Lambda, Bedrock, Azure ML Studio
+Tools: Jupyter Notebook, Power BI
+
+Projects
+AI Agent using Groqcloud:
+Agentic RAG system using Qdrant:
+Transcription system using Whisper and Claude:
+
+Learning & Certifications
+Oracle AI Foundations Associate — gained skills in AI fundamentals and OCI AI services
+Python for Machine Learning - Pandas and Numpy
+Data visualisation - Power BI
+
+
+
+
