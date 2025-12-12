@@ -13,9 +13,9 @@ Cloud: AWS Lambda, Bedrock, Azure ML Studio
 Tools: Jupyter Notebook, Power BI
 
 Projects
-AI Agent using Groqcloud:
-Agentic RAG system using Qdrant:
-Transcription system using Whisper and Claude:
+AI Agent using Groqcloud: https://github.com/Divya09-11/ai-agent-groqcloud
+Agentic RAG system using Qdrant: https://github.com/Divya09-11/agentic-rag-qdrant
+Transcription system using Whisper and Claude: https://github.com/Divya09-11/whisper-claude
 
 Learning & Certifications
 Oracle AI Foundations Associate — gained skills in AI fundamentals and OCI AI services
