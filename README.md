@@ -24,8 +24,9 @@ Welcome to my GitHub profile! I'm a recent engineering graduate passionate about
 
 ## 🤝 Connect with Me
 
-[![LinkedIn]] ([linkedin.com/in/divyashreea]) 
+linkedin: [www.linkedin.com/in/divyashreea]
 
-[![Email]] (mailto:[divyaanand1356@gmail.com])
+mailto:[divyaanand1356@gmail.com]
+
 
 ⭐️ From Bangalore
